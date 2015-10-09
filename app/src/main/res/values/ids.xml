@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Section ListAdapter IDs-->
+    <item name="section_unique_id" type="id"></item>
+    <item name="section_unique_src" type="id"></item>
+    <item name="section_unique_title" type="id"></item>
+    <item name="section_unique_author" type="id"></item>
+    <item name="section_unique_pubdate" type="id"></item>
+
+</resources>

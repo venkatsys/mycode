@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rss_feed_display" type="layout">
+        @layout/rss_feed_display_large
+    </item>
+    <item name="rss_feed_display_news" type="layout">
+        @layout/rss_feed_display_news_large
+    </item>
+    <item name="rss_feed_display_opinion" type="layout">
+        @layout/rss_feed_display_opinion_large
+    </item>
+    <item name="rss_feed_display_business" type="layout">
+        @layout/rss_feed_display_business_large
+    </item>
+    <item name="rss_feed_display_sport" type="layout">
+        @layout/rss_feed_display_sport_large
+    </item>
+    <item name="rss_feed_display_entertainment" type="layout">
+        @layout/rss_feed_display_entertainment_large
+    </item>
+</resources>
